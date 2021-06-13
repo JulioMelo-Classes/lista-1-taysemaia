@@ -5,7 +5,7 @@ Preencha os dados abaixo para identificar a autoria do trabalho.
 - Nome: Tayse de Oliveira Maia
 - Email: tayse.maia.097@ufrn.edu.br
 - Turma: TURMA 01
-- 
+
 # Questões Finalizadas
 
 - [ ] Negativos 5
