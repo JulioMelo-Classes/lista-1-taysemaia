@@ -1,6 +1,9 @@
 #include "function.h"
 using namespace std;
 
+/*
+ok
+*/
 vector<unsigned int> fib_below_n(unsigned int n)
 {
 

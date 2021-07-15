@@ -12,7 +12,10 @@ using namespace std;
  * @return A pair of indexes to the first smallest and last largest values.
  */
 
-std::pair<int,int> min_max( int V[], size_t n )
+/*
+Ok
+*/
+std::pair<int,int> min_max( int V[], std::size_t n )
 {   
        
     int i, menor, maior, ind1 = 0, ind2 = 0;
@@ -37,7 +40,7 @@ std::pair<int,int> min_max( int V[], size_t n )
             maior = V[i];
             ind2 = i;
         }
-        else{
+        else{ //desnecessário, bem como o de cima...
             maior = maior;
         }
     }
